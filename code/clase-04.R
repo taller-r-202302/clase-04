@@ -1,6 +1,6 @@
 ## clase-04: leer/escribir conjuntos de datos
-## update: 11-11-2021
-## R version 4.1.1 (2021-08-10)
+## update: 29-08-2023
+## R version 4.2.3 (2023-03-15)
 
 ## limpiar entorno
 rm(list=ls()) 
