@@ -19,4 +19,7 @@ getwd()
 list.files()
 
 
-
+## READ API
+browseURL("https://www.datos.gov.co/Educaci-n/Resultados-nicos-Saber-Pro/u37r-hjmu")
+db = import("https://www.datos.gov.co/resource/u37r-hjmu.json?estu_cod_depto_presentacion=11")
+export(db,"data.xlsx")
